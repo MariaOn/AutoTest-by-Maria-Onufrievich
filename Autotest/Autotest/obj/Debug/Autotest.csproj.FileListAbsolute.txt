@@ -1,0 +1,46 @@
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\NUnit3.TestAdapter.dll
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\NUnit3.TestAdapter.pdb
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\nunit.engine.dll
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\nunit.engine.api.dll
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\Mono.Cecil.dll
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\Autotest.dll
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\Autotest.pdb
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\nunit.framework.dll
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\WebDriver.dll
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\WebDriver.Support.dll
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\nunit.framework.pdb
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\nunit.framework.xml
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\ThoughtWorks.Selenium.Core.xml
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\WebDriver.xml
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\bin\Debug\WebDriver.Support.xml
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\obj\Debug\Autotest.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\obj\Debug\Autotest.csproj.CoreCompileInputs.cache
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\obj\Debug\Autotest.csproj.CopyComplete
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\obj\Debug\Autotest.dll
+c:\users\администратор\documents\visual studio 2017\Projects\Autotest\Autotest\obj\Debug\Autotest.pdb
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\nunit.engine.dll
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\nunit.engine.api.dll
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\Mono.Cecil.dll
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\Autotest.dll
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\Autotest.pdb
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\nunit.framework.dll
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\WebDriver.dll
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\WebDriver.Support.dll
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\nunit.framework.pdb
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\nunit.framework.xml
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\WebDriver.xml
+C:\Users\Администратор\Autotest\Autotest\bin\Debug\WebDriver.Support.xml
+C:\Users\Администратор\Autotest\Autotest\obj\Debug\Autotest.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Autotest\Autotest\obj\Debug\Autotest.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Autotest\Autotest\obj\Debug\Autotest.csproj.CopyComplete
+C:\Users\Администратор\Autotest\Autotest\obj\Debug\Autotest.dll
+C:\Users\Администратор\Autotest\Autotest\obj\Debug\Autotest.pdb
